@@ -3,7 +3,7 @@
 ## Objective
 Understand customer buying behavior by identifying repeat customers and purchase frequency using SQL.
 
-### Analysis Covered
+### Analysis Covered 
 - Identifying repeat customers
 - Comparing one-time vs repeat buyers
 - Ranking customers by number of purchases
